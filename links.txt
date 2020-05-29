@@ -1,0 +1,8 @@
+Converting from csv to json
+http://csvjson.com/csv2json
+
+Spreadsheet
+https://docs.google.com/spreadsheets/d/1JTFwV43WkzLV_2tyOiHnh0e2yGDLyudZc_kMyUI9Igs/edit?usp=sharing
+
+Reference
+https://medium.com/@impaachu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
